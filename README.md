@@ -1,7 +1,7 @@
 # 🔬 Image-to-Structured Data Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_Batch_API-2.5_Flash-orange?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/MODEL_NAME-gemini_3_flash_preview-orange?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-teal?style=for-the-badge&logo=playwright&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Google_Colab_%2B_Drive-yellow?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)

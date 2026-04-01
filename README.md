@@ -142,7 +142,7 @@ The pipeline includes a built-in token usage and cost reporting stage (Section 6
 ```
 
 > Pricing is configurable via `PRICE_INPUT_1M` and `PRICE_OUTPUT_1M` constants in Section 6.
-> Values above use Gemini 2.5 Flash Batch pricing as of 2025.
+> Values above use Gemini 3 Flash Batch pricing as of 2025.
 
 ---
 
